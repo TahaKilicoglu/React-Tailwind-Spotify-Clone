@@ -25,9 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "watch": "npx tailwindcss -i tailwind.css -o src/style.css --watch",
-    "preinstall" : "node ./scripts/netlify-preinstall.js"
-
+    "watch": "npx tailwindcss -i tailwind.css -o src/style.css --watch"
   },
   "eslintConfig": {
     "extends": [
